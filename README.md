@@ -1,12 +1,5 @@
  <h2 align="center">Opa! 👋, Eu sou Samuel</h2>
 
-<div align="center">
-  <a href="https://github.com/Samuelwps">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Samuelwps&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuelwps&layout=compact&langs_count=7&theme=great-gatsby"/>
-</div>
-
-
 ### Eu...
 * 🎓 Estudo Eletromecânica no CEEP [ 3º Período ]
 * 🔭 Estou atualmente explorando **TypeScript**🔥
